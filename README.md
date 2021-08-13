@@ -1,5 +1,5 @@
-Pre-Requisite: Below application required 
-1.git and github
-2.docker
-3.jenkins
-
+Step1: git clone "https://github.com/chakredhanraj123/BackendDemoProject.git" \n
+Step2: goto BackendDemoProject directory \n
+Step3: execute "docker-compose up -d --build" \n
+(NodeJS, MongoDB and MySQL container will get run on docker host.)\n
+Step4: Access application using http://localhost:51005
