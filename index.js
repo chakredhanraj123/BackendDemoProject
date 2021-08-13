@@ -4,6 +4,6 @@
 
 var nodeServer = require('./node_server');
 var mongo = require('./db_connections/mongo_connection');
-nodeServer.0;
+nodeServer.server;
 mongo.mongoConnection();
 
