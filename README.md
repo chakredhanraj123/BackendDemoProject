@@ -1,3 +1,5 @@
+Pre-Res: Git, Docker application should be installed on local system.
+
 Step1: git clone "https://github.com/chakredhanraj123/BackendDemoProject.git"
 
 Step2: goto BackendDemoProject directory
